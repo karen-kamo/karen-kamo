@@ -1,12 +1,8 @@
 ### Oii! Eu sou a Karen Kamo
 
-<div>
+<p>
 - Eu faço curso técnico de informática integrado ao E.M. no Instituo Federal de São Paulo câmpus Votuporanga
-<br>
-- Atualmente estou aprendendo Python por conta própria.
-<br>
-- Eu sou apaixonada pelo desenvolvimento de games 💖
-</div>
+</p>
 
 <div align="center">
   <a href="https://github.com/karenkamo">
