@@ -1,7 +1,7 @@
 ### Seja bem-vindo(a)!
 
 <p>
-  Meu nome é <b> Karen Nanamy Kamo </b> e atualmente estou realizando o curso técnico de informática integrado ao E.M. no Instituo Federal de São Paulo - Campus Votuporanga
+  Meu nome é <b> Karen Nanamy Kamo </b>, formada no curso técnico de informática integrado ao E.M. no Instituo Federal de São Paulo - Campus Votuporanga
 </p>
 
 <div align="center">
