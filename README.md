@@ -1,15 +1,34 @@
-### Seja bem-vindo(a)!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FCB6D0&height=120&section=header"/>
 
-<p>
-  Meu nome é <b> Karen Nanamy Kamo </b>, formada no curso técnico de informática integrado ao E.M. no Instituo Federal de São Paulo - Campus Votuporanga
+<img width=100% src="https://capsule-render.vercel.app/api?type=venom&color=FCB6D0&height=150&section=header&text=I'm%20Karen%20Kamo&fontSize=55&fontColor=fffaf7&animation=twinkling" />
+
+<p align="center">Eu ❤️ resolver grandes problemas usando a tecnologia. <br>Eu sou <strong>apaixonada pelo desenvolvimento de jogos</strong> e, atualmente, estudo sobre isso. </p>&nbsp; <br>
+
+<div  align="center" style="margin-bottom:100px">
+  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=karen-kamo&theme=dracula&mode=weekly" />
+  <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=karen-kamo&show_icons=true&theme=dracula&layout=compact" />
+</div><br>
+
+## My Skills
+<p align="start">
+    <a href="">
+      <img src="https://skillicons.dev/icons?i=html,css,javascript,python,linux,bootstrap,php,java" />
+    </a>
 </p>
 
-<div align="center">
-  <a href="https://github.com/karen-kamo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KarenKamo&show_icons=true&theme=dracula&include_all_commits=truecount_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karen-kamo&layout=compact&langs_count=7&theme=dracula"/>
+## Workstation Tool
+<p align="start">
+    <a href="">
+      <img src="https://skillicons.dev/icons?i=vscode,notepad++" />
+    </a>
+</p>
 
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+## Contacts
+<div> 
+<a href="https://www.instagram.com/karennanamy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href = "devnanamy@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/karen-nanamy-kamo-810348278/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FCB6D0&height=120&section=footer"/>
