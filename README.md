@@ -2,6 +2,8 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=venom&color=FCB6D0&height=150&section=header&text=I'm%20Karen%20Kamo&fontSize=55&fontColor=fffaf7&animation=twinkling" />
 
+<p align="center">Sou formada no curso técnico em Informática pelo IFSP - Instituto Federal de São Paulo. </p>&nbsp; <br>
+
 <p align="center">Eu ❤️ resolver grandes problemas usando a tecnologia. <br>Eu sou <strong>apaixonada pelo desenvolvimento de jogos</strong> e, atualmente, estudo sobre isso. </p>&nbsp; <br>
 
 <div  align="center" style="margin-bottom:100px">
