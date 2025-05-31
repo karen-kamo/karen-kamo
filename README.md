@@ -2,7 +2,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=venom&color=FCB6D0&height=150&section=header&text=I'm%20Karen%20Kamo&fontSize=55&fontColor=fffaf7&animation=twinkling" />
 
-<p align="center">Cursando Sistemas de Informação no ICMC-USP. </p>&nbsp;
+<p align="center">Cursando Sistemas de Informação no ICMC-USP. </p>
 <p align="center">Formada no curso técnico em Informática pelo IFSP - Instituto Federal de São Paulo. </p>&nbsp; <br>
 
 <p align="center">Eu ❤️ resolver grandes problemas usando a tecnologia.</p>&nbsp; <br>
