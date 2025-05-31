@@ -4,12 +4,11 @@
 
 <p align="center">Cursando Sistemas de Informação no ICMC-USP. </p>&nbsp; <br>
 
-<p align="center"Formada no curso técnico em Informática pelo IFSP - Instituto Federal de São Paulo. </p>&nbsp; <br>
+<p align="center">Formada no curso técnico em Informática pelo IFSP - Instituto Federal de São Paulo. </p>&nbsp; <br>
 
 <p align="center">Eu ❤️ resolver grandes problemas usando a tecnologia.</p>&nbsp; <br>
 
 <div  align="center" style="margin-bottom:100px">
-  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=karen-kamo&theme=dracula&mode=weekly" />
   <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=karen-kamo&show_icons=true&theme=dracula&layout=compact" />
 </div><br>
 
