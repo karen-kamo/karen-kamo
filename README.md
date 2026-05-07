@@ -12,7 +12,7 @@
 ## My Skills
 <p align="start">
     <a href="">
-      <img src="https://skillicons.dev/icons?i=html,css,javascript,python,linux,bootstrap,php,java,c,react" />
+      <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,python,php,java,linux,c" />
     </a>
 </p>
 
