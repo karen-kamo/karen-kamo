@@ -7,14 +7,12 @@
 
 <p align="center">Eu ❤️ resolver grandes problemas usando a tecnologia.</p>&nbsp; <br>
 
-<div  align="center" style="margin-bottom:100px">
-  <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=karen-kamo&show_icons=true&theme=dracula&layout=compact" />
-</div><br>
+
 
 ## My Skills
 <p align="start">
     <a href="">
-      <img src="https://skillicons.dev/icons?i=html,css,javascript,python,linux,bootstrap,php,java,c" />
+      <img src="https://skillicons.dev/icons?i=html,css,javascript,python,linux,bootstrap,php,java,c,react" />
     </a>
 </p>
 
